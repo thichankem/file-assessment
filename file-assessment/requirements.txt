@@ -1,4 +1,0 @@
-python-docx>=1.0
-pymupdf>=1.23
-openpyxl>=3.1
-pywin32>=306 ; sys_platform == "win32"
